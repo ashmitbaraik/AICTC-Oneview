@@ -1,0 +1,13 @@
+{
+  "name": "aicte-oneview-backend",
+  "version": "1.0.0",
+  "description": "AICTE OneView Backend REST API & Overlap Detection Engine for SIH 2026",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "keywords": ["sih2026", "aicte", "complaint-monitoring", "overlap-detection"],
+  "author": "Team TENET"
+}

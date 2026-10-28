@@ -1,0 +1,121 @@
+export const currentUsers = [
+  {
+    id: 'u-1',
+    name: 'Ashmit Baraik',
+    username: 'ashmit.baraik',
+    email: 'ashmitbaraik@gmail.com',
+    role: 'Admin',
+    department: 'Head Office',
+    institution: 'BIT Sindri',
+    status: 'Active',
+    lastLogin: '2025-06-20 10:45 AM',
+    avatar: 'AB',
+    bureau: 'AICTE HQ'
+  },
+  {
+    id: 'u-2',
+    name: 'Dr. R. Kumar',
+    username: 'rohit.kumar',
+    email: 'rohit@aicte.gov.in',
+    role: 'Bureau Officer',
+    department: 'Regulation Bureau (RB)',
+    institution: 'AICTE Central',
+    status: 'Active',
+    lastLogin: '2025-06-18 11:20 AM',
+    avatar: 'RK',
+    bureau: 'RB'
+  },
+  {
+    id: 'u-3',
+    name: 'Dr. Aarav Sharma',
+    username: 'aarav.sharma',
+    email: 'aarav.sharma@aicte.gov.in',
+    role: 'Senior Management',
+    department: 'Member Secretary Office',
+    institution: 'AICTE HQ',
+    status: 'Active',
+    lastLogin: '2025-06-21 09:15 AM',
+    avatar: 'AS',
+    bureau: 'Executive Council'
+  },
+  {
+    id: 'u-4',
+    name: 'Ms. Sneha Singh',
+    username: 'sneha.singh',
+    email: 'sneha@aicte.gov.in',
+    role: 'Institute Admin',
+    department: 'IT Department',
+    institution: 'BIT Sindri',
+    status: 'Active',
+    lastLogin: '2025-06-19 04:32 PM',
+    avatar: 'SS',
+    bureau: 'PGRC'
+  },
+  {
+    id: 'u-5',
+    name: 'Priya Chaudhary',
+    username: 'priya.chaudhary',
+    email: 'priya@aicte.gov.in',
+    role: 'Data Entry Operator',
+    department: 'Administration',
+    institution: 'BIT Sindri',
+    status: 'Active',
+    lastLogin: '2025-06-17 02:15 PM',
+    avatar: 'PC',
+    bureau: 'Admin'
+  },
+  {
+    id: 'u-6',
+    name: 'Aman Kumar',
+    username: 'aman.kumar',
+    email: 'aman@aicte.gov.in',
+    role: 'Viewer',
+    department: 'Library / Student Welfare',
+    institution: 'BIT Sindri',
+    status: 'Inactive',
+    lastLogin: '2025-06-10 09:30 AM',
+    avatar: 'AK',
+    bureau: 'General'
+  },
+  {
+    id: 'u-7',
+    name: 'Neha Sharma',
+    username: 'neha.sharma',
+    email: 'neha@aicte.gov.in',
+    role: 'Institute Admin',
+    department: 'Examination',
+    institution: 'BIT Sindri',
+    status: 'Active',
+    lastLogin: '2025-06-18 03:50 PM',
+    avatar: 'NS',
+    bureau: 'Examination Cell'
+  },
+  {
+    id: 'u-8',
+    name: 'Vikash Patel',
+    username: 'vikash.patel',
+    email: 'vikash@aicte.gov.in',
+    role: 'Reviewer',
+    department: 'Placements',
+    institution: 'BIT Sindri',
+    status: 'Active',
+    lastLogin: '2025-06-16 01:12 PM',
+    avatar: 'VP',
+    bureau: 'Academic Planning'
+  },
+  {
+    id: 'u-9',
+    name: 'Ritika Sharma',
+    username: 'ritika.sharma',
+    email: 'ritika@aicte.gov.in',
+    role: 'Data Entry Operator',
+    department: 'Accounts',
+    institution: 'BIT Sindri',
+    status: 'Active',
+    lastLogin: '2025-06-15 12:40 PM',
+    avatar: 'RS',
+    bureau: 'Finance'
+  }
+];
+
+export default currentUsers;
